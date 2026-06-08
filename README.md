@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Siddhantthakur132/LeetCode-Submission/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Siddhantthakur132/LeetCode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Siddhantthakur132/LeetCode-Submission/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Siddhantthakur132/LeetCode-Submission/tree/master/0031-next-permutation) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Siddhantthakur132/LeetCode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Siddhantthakur132/LeetCode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
